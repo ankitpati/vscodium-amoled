@@ -25,15 +25,22 @@
     "titleBar.activeBackground": "#000",
     "titleBar.inactiveBackground": "#000",
     "titleBar.border": "#000",
-    "titleBar.activeForeground": "#ccc",
-    "titleBar.inactiveForeground": "#ccc",
+    "titleBar.activeForeground": "#fff",
+    "titleBar.inactiveForeground": "#fff",
 
     "scrollbarSlider.background": "#fff2",
     "scrollbarSlider.hoverBackground": "#fff3",
     "scrollbarSlider.activeBackground": "#fff4",
 
-    "editor.background": "#000",
+    "statusBar.foreground": "#fff",
     "statusBar.background": "#000",
+    "statusBar.debuggingBackground": "#f00",
+    "statusBar.noFolderBackground": "#000",
+    "statusBarItem.remoteBackground": "#0f0",
+    "statusBarItem.prominentBackground": "#003847",
+    "statusBarItem.prominentHoverBackground": "#003847",
+
+    "editor.background": "#000",
     "editorGroup.emptyBackground": "#000",
     "editorGroup.dropBackground": "#000",
     "editorGroupHeader.noTabsBackground": "#000",
@@ -41,7 +48,6 @@
     "activityBarBadge.background": "#000",
     "activityBar.background": "#000",
 
-    "statusBar.foreground": "#ccc",
     "sideBar.background": "#000",
     "sideBar.border": "#222",
     "editorRuler.foreground": "#222",
