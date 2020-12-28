@@ -9,7 +9,11 @@ Adapted from [VSCode Pitch Black Theme](https://github.com/ViktorQvarfordt/vscod
 
 ## Install and Activate
 
-    git clone https://gitlab.com/ankitpati/vscodium-amoled.git ~/.vscode-oss/extensions/amoled-theme-1.0.0
+    codium --install-extension ankitpati.vscodium-amoled
+
+## Develop, Debug, and Extend
+
+    git clone https://gitlab.com/ankitpati/vscodium-amoled.git ~/.vscode-oss/extensions/amoled-theme
 
 ## Settings
 
