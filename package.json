@@ -2,6 +2,7 @@
 	"name": "vscodium-amoled",
 	"displayName": "AMOLED",
 	"publisher": "ankitpati",
+    "license": "GPL-3.0-or-later",
 	"description": "AMOLED Black Theme",
 	"version": "1.0.0",
 	"repository": {
